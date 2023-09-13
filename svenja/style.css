@@ -3,6 +3,10 @@ img {
     height: 250px;
 }
 
+audio {
+    width: 350px;
+}
+
 iframe {
     width: 350px;
 }
