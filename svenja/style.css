@@ -2,3 +2,7 @@ img {
     width: 350px;
     height: 250px;
 }
+
+iframe {
+    width: 300px;
+}
